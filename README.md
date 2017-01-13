@@ -25,9 +25,9 @@ Se você está chegando agora, saiba mais sobre a nossa empresa em nosso site ht
 
 # Descrição do desafio
 
-Como nosso dia a dia à relacionado à desenvolvimentos para sistemas de gestão empresarial, selecionamos uma plataforma de código aberto, co características parecidas com o nosso  afim de permitir que os candidatos
+Como nosso dia a dia à relacionado à desenvolvimentos para sistemas de gestão empresarial, selecionamos uma plataforma de código aberto, o iDempiere, com características parecidas com o nosso dia a dia  afim de permitir que os candidatos possam mostrar suas habilidades e obterem destaque na seleção.
 
-O desafio consiste em 2 etapas:
+As informações sobre a plataforma estão disponíveis em http://www.idempiere.org/ e o desafio consiste em 2 etapas:
 
 ## Funcional
 
@@ -39,3 +39,5 @@ O desafio consiste em 2 etapas:
 - Configurar o ambiente de desenvolvimento em qualquer ambiente (preferencialmente Linux)
 - Executar o sistema à partir do ambiente de desenvolvimento e repetir o caso de uso
 - Criar um plugin que implemente ao menos uma nova funcionalidade (extensão) para o iDempiere, podendo ser uma Callout, um Processo, um EventHandler ou qualquer outra disponível em http://wiki.idempiere.org/en/Category:Plug-In_Development
+
+O desafio pode ser entregue completo ou somente uma das etapas, conforme o candidato conseguir realizar.
