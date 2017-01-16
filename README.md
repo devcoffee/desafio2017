@@ -40,4 +40,9 @@ As informações sobre a plataforma estão disponíveis em http://www.idempiere.
 - Executar o sistema à partir do ambiente de desenvolvimento e repetir o caso de uso
 - Criar um plugin que implemente ao menos uma nova funcionalidade (extensão) para o iDempiere, podendo ser uma Callout, um Processo, um EventHandler ou qualquer outra disponível em http://wiki.idempiere.org/en/Category:Plug-In_Development
 
-O desafio pode ser entregue completo ou somente uma das etapas, conforme o candidato conseguir realizar.
+# Entrega
+
+Após finalizar o desafio, o candidato deve entrar em contato conosco pelo formulário https://devcoffee.com.br/estagio/ solicitando uma data para apresentação.
+
+Nota: O desafio pode ser entregue completo ou somente uma das etapas, conforme o candidato conseguir realizar.
+
