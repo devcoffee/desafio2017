@@ -1,5 +1,7 @@
 # Desafio Opcional - Programa de Estágio 2017
 
+# ATENÇÃO: vagas de estágio 2017 já foram preenchidas, em breve daremos inicio ao processo seletivo para 2018. Para maiores informações acompanhar este projeto e nossas redes sociais.
+
 # Sobre a devCoffee
 
 Se você está chegando agora, saiba mais sobre a nossa empresa em nosso site http://devcoffee.com.br.
